@@ -1,0 +1,29 @@
+{
+  "name": "estu-volunteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kcchien/estu-volunteer-heroku.git"
+  },
+  "author": "KUANG-CHENG, CHIEN <me@kcchien.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kcchien/estu-volunteer-heroku/issues"
+  },
+  "homepage": "https://github.com/kcchien/estu-volunteer-heroku#readme",
+  "dependencies": {
+    "@line/bot-sdk": "^6.2.1",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "firebase": "^5.4.1",
+    "firebase-admin": "^6.0.0",
+    "jsonwebtoken": "^8.3.0",
+    "lodash": "^4.17.10",
+    "moment": "^2.22.2"
+  }
+}
